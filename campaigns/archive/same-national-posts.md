@@ -1,0 +1,1154 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=e3]
+      - alert
+  - generic [ref=e4]:
+    - generic [ref=e6]:
+      - button "Skip to search" [ref=e7] [cursor=pointer]:
+        - generic [ref=e8]: Skip to search
+      - button "Skip to main content" [ref=e9] [cursor=pointer]:
+        - generic [ref=e10]: Skip to main content
+      - button "Keyboard shortcuts" [ref=e11] [cursor=pointer]:
+        - generic [ref=e12]: Keyboard shortcuts
+      - button "Close jump menu" [ref=e13] [cursor=pointer]:
+        - img [ref=e14]
+        - generic [ref=e16]: Close jump menu
+    - banner "Global Navigation" [ref=e17]:
+      - generic [ref=e18]:
+        - link "LinkedIn" [ref=e19] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=e22]:
+            - img [ref=e23]
+        - generic [ref=e27]:
+          - combobox "I’m looking for..." [ref=e28]
+          - generic:
+            - img
+        - navigation "Primary Navigation" [ref=e29]:
+          - list [ref=e30]:
+            - listitem [ref=e31]:
+              - link "new feed updates notifications Home" [ref=e32] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=e33]:
+                  - generic [ref=e36]: new feed updates notifications
+                  - img [ref=e40]
+                - generic "Home" [ref=e42]
+            - listitem [ref=e43]:
+              - link "My Network" [ref=e44] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - img [ref=e48]
+                - generic "My Network" [ref=e50]
+            - listitem [ref=e51]:
+              - link "Jobs" [ref=e52] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+                - img [ref=e56]
+                - generic "Jobs" [ref=e58]
+            - listitem [ref=e59]:
+              - link "Messaging" [ref=e60] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+                - img [ref=e64]
+                - generic "Messaging" [ref=e66]
+            - listitem [ref=e67]:
+              - link "Notifications" [ref=e68] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - img [ref=e72]
+                - generic "Notifications" [ref=e74]
+            - listitem [ref=e75]:
+              - button "Madina Gbotoe Me" [ref=e77] [cursor=pointer]:
+                - img "Madina Gbotoe" [ref=e78]
+                - generic [ref=e79]:
+                  - text: Me
+                  - img [ref=e80]
+            - listitem [ref=e82]:
+              - button "For Business" [ref=e84] [cursor=pointer]:
+                - img [ref=e88]
+                - generic "For Business" [ref=e90]:
+                  - text: For Business
+                  - img [ref=e91]
+            - listitem [ref=e93]:
+              - link "Learning" [ref=e94] [cursor=pointer]:
+                - /url: https://www.linkedin.com/learning/?trk=nav_neptune_learning&
+                - img [ref=e98]
+                - generic "Learning" [ref=e103]
+    - generic [ref=e107]:
+      - generic [ref=e904]:
+        - generic [ref=e905]:
+          - region [ref=e906]:
+            - generic [ref=e907]:
+              - img "Society of American Military Engineers logo" [ref=e909]
+              - heading "Society of American Military Engineers" [level=4] [ref=e912]
+          - generic [ref=e913]:
+            - button "Overflow Actions" [ref=e917] [cursor=pointer]:
+              - img "Overflow Actions" [ref=e918]
+            - region [ref=e921]:
+              - button "Message Society of American Military Engineers" [ref=e922] [cursor=pointer]:
+                - img [ref=e923]
+                - generic [ref=e925]: Message
+              - button "Following" [pressed] [ref=e926] [cursor=pointer]:
+                - img [ref=e927]
+                - generic [ref=e929]: Following
+        - navigation "Organization’s page navigation" [ref=e932]:
+          - list [ref=e933]:
+            - listitem [ref=e934]:
+              - link "Home" [ref=e935] [cursor=pointer]:
+                - /url: /company/same-national/
+            - listitem [ref=e936]:
+              - link "About" [ref=e937] [cursor=pointer]:
+                - /url: /company/same-national/about/
+            - listitem [ref=e938]:
+              - link "Posts" [ref=e939] [cursor=pointer]:
+                - /url: /company/same-national/posts/?feedView=all
+            - listitem [ref=e940]:
+              - link "Jobs" [ref=e941] [cursor=pointer]:
+                - /url: /company/same-national/jobs/
+            - listitem [ref=e942]:
+              - link "People" [ref=e943] [cursor=pointer]:
+                - /url: /company/same-national/people/
+            - listitem [ref=e944]:
+              - link "Insights" [ref=e945] [cursor=pointer]:
+                - /url: /company/same-national/insights/
+      - generic [ref=e108]:
+        - main "Organization page for Society of American Military Engineers" [ref=e109]:
+          - generic [ref=e112]:
+            - button [ref=e115]
+            - generic [ref=e118]:
+              - button "Subscribed to page notifications from people you may know. Click to manage." [ref=e816] [cursor=pointer]:
+                - img [ref=e817]
+                - generic [ref=e819]: Subscribed to page notifications from people you may know. Click to manage.
+              - generic [ref=e120]:
+                - generic [ref=e121]:
+                  - img "Society of American Military Engineers logo" [ref=e122]
+                  - generic [ref=e124]:
+                    - heading "Society of American Military Engineers" [level=1] [ref=e125]
+                    - paragraph [ref=e126]: The Society of American Military Engineers is the premier professional military engineering association in the US.
+                    - generic [ref=e127]:
+                      - generic [ref=e128]: · Armed Forces
+                      - generic [ref=e129]:
+                        - generic [ref=e130]: · Alexandria, Virginia
+                        - generic [ref=e131]: · 18K followers
+                        - link "· 11-50 employees" [ref=e132] [cursor=pointer]:
+                          - /url: /search/results/people/?currentCompany=%5B%22229263%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH
+                          - text: ·
+                          - generic [ref=e133]: 11-50 employees
+                - link "Randall Niznick, DCP, FMP Randall & 9 other connections follow this page" [ref=e137] [cursor=pointer]:
+                  - /url: http://www.linkedin.com/company/same-national/?showInNetworkFollowers=true
+                  - img "Randall Niznick, DCP, FMP" [ref=e140]
+                  - heading "Randall & 9 other connections follow this page" [level=2] [ref=e141]
+                - generic [ref=e143]:
+                  - region [ref=e145]:
+                    - button "Message Society of American Military Engineers" [ref=e146] [cursor=pointer]:
+                      - img [ref=e147]
+                      - generic [ref=e149]: Message
+                    - button "Following" [pressed] [ref=e150] [cursor=pointer]:
+                      - img [ref=e151]
+                      - generic [ref=e153]: Following
+                  - button "Overflow Actions" [ref=e157] [cursor=pointer]:
+                    - img "Overflow Actions" [ref=e158]
+              - navigation "Organization’s page navigation" [ref=e161]:
+                - list [ref=e162]:
+                  - listitem [ref=e163]:
+                    - link "Home" [ref=e164] [cursor=pointer]:
+                      - /url: /company/same-national/
+                  - listitem [ref=e165]:
+                    - link "About" [ref=e166] [cursor=pointer]:
+                      - /url: /company/same-national/about/
+                  - listitem [ref=e167]:
+                    - link "Posts" [ref=e168] [cursor=pointer]:
+                      - /url: /company/same-national/posts/?feedView=all
+                  - listitem [ref=e169]:
+                    - link "Jobs" [ref=e170] [cursor=pointer]:
+                      - /url: /company/same-national/jobs/
+                  - listitem [ref=e171]:
+                    - link "People" [ref=e172] [cursor=pointer]:
+                      - /url: /company/same-national/people/
+                  - listitem [ref=e173]:
+                    - link "Insights" [ref=e174] [cursor=pointer]:
+                      - /url: /company/same-national/insights/
+          - generic [ref=e177]:
+            - generic [ref=e178]:
+              - generic [ref=e179]:
+                - img "Society of American Military Engineers logo" [ref=e180]
+                - heading "Society of American Military Engineers" [level=2] [ref=e181]
+                - paragraph [ref=e182]: 18,140 followers
+              - generic [ref=e183]:
+                - paragraph [ref=e184]: See a collection of active or past ads by Society of American Military Engineers.
+                - link "View ad library" [ref=e185] [cursor=pointer]:
+                  - /url: /ad-library/search?companyIds=229263
+            - generic [ref=e186]:
+              - tablist [ref=e188]:
+                - tab "All" [selected] [ref=e189] [cursor=pointer]:
+                  - generic [ref=e190]: All
+                - tab "Images" [ref=e191] [cursor=pointer]:
+                  - generic [ref=e192]: Images
+                - tab "Videos" [ref=e193] [cursor=pointer]:
+                  - generic [ref=e194]: Videos
+                - tab "Articles" [ref=e195] [cursor=pointer]:
+                  - generic [ref=e196]: Articles
+                - tab "Documents" [ref=e197] [cursor=pointer]:
+                  - generic [ref=e198]: Documents
+              - 'button "Sort by: Top Sort relevance dropdown" [ref=e201] [cursor=pointer]':
+                - text: "Sort by:"
+                - strong [ref=e202]: Top
+                - img "Sort relevance dropdown" [ref=e203]
+              - generic [ref=e206]:
+                - generic [ref=e207]:
+                  - article [ref=e212]:
+                    - generic [ref=e214]:
+                      - heading "Feed post number 1" [level=2] [ref=e215]
+                      - generic [ref=e216]:
+                        - generic [ref=e217]:
+                          - generic [ref=e219]:
+                            - link "Society of American Military Engineers, graphic." [ref=e220] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/same-national/posts
+                            - generic [ref=e224]:
+                              - 'link "View: Society of American Military Engineers 18,140 followers" [ref=e225] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/company/same-national/posts
+                                - generic [ref=e228]:
+                                  - generic [ref=e230]: Society of American Military Engineers
+                                  - generic [ref=e232]: Society of American Military Engineers
+                                - generic [ref=e233]:
+                                  - generic [ref=e234]: 18,140 followers
+                                  - generic [ref=e235]: 18,140 followers
+                              - generic [ref=e236]:
+                                - generic [ref=e237]:
+                                  - text: 3d •
+                                  - img [ref=e240]
+                                - generic [ref=e242]: 3 days ago • Visible to anyone on or off LinkedIn
+                          - button "Open control menu for post by Society of American Military Engineers" [ref=e245] [cursor=pointer]:
+                            - img [ref=e246]
+                        - generic [ref=e249]:
+                          - generic [ref=e252]:
+                            - link "hashtag SAMETBT" [ref=e253] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23sametbt&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=e254]: hashtag
+                              - generic [ref=e255]: "#SAMETBT"
+                            - text: shines a spotlight on Lieutenant General Joe Nathan Ballard (Ret.) — a trailblazer in U.S. Army and SAME history!
+                            - text: Honoring his leadership, service, and legacy during
+                            - link "hashtag BlackHistoryMonth" [ref=e256] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23blackhistorymonth&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=e257]: hashtag
+                              - generic [ref=e258]: "#BlackHistoryMonth"
+                            - text: he became the first African American to serve as the Army’s Chief of Engineers, and in 1998, he made history again as SAME’s first African American National President.
+                            - text: LTG Ballard’s military honors include the Distinguished Service Medal, Legion of Merit, Bronze Star Medal, Defense Meritorious Service Medal and the Meritorious Service Medal.
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=e259] [cursor=pointer]:
+                            - generic [ref=e260]: …more
+                        - generic [ref=e262]:
+                          - button "Activate to view larger image, No alternative text description for this image" [ref=e264] [cursor=pointer]:
+                            - generic [ref=e265]: Activate to view larger image,
+                            - img "No alternative text description for this image" [ref=e268]
+                          - generic [ref=e269]: Activate to view larger image,
+                        - generic [ref=e270]:
+                          - list [ref=e274]:
+                            - listitem [ref=e275]:
+                              - button "24 reactions" [ref=e276] [cursor=pointer]:
+                                - img "like" [ref=e277]
+                                - img "love" [ref=e278]
+                                - img "celebrate" [ref=e279]
+                                - generic [ref=e280]: "24"
+                            - listitem [ref=e281]:
+                              - list [ref=e282]:
+                                - listitem [ref=e283]:
+                                  - button "2 comments on Society of American Military Engineers’ post" [ref=e284] [cursor=pointer]:
+                                    - generic [ref=e285]: 2 comments
+                          - generic [ref=e286]:
+                            - button "Open menu for switching identity when interacting with this post" [ref=e821] [cursor=pointer]:
+                              - generic [ref=e823]:
+                                - img "Photo of Madina Gbotoe" [ref=e824]
+                                - img [ref=e825]
+                            - generic [ref=e287]:
+                              - button "React Like" [ref=e288] [cursor=pointer]:
+                                - img [ref=e291]
+                              - button "Open reactions menu":
+                                - img [ref=e294] [cursor=pointer]
+                            - button "Comment" [ref=e298] [cursor=pointer]:
+                              - img [ref=e299]
+                            - button [ref=e303] [cursor=pointer]:
+                              - img [ref=e304]
+                            - button "Send in a private message" [ref=e308] [cursor=pointer]:
+                              - img [ref=e309]
+                  - article [ref=e315]:
+                    - generic [ref=e317]:
+                      - heading "Feed post number 2" [level=2] [ref=e318]
+                      - generic [ref=e321]:
+                        - button "Open control menu" [ref=e324] [cursor=pointer]:
+                          - img [ref=e325]
+                        - generic [ref=e327]:
+                          - generic [ref=e328]:
+                            - img [ref=e329]:
+                              - img [ref=e330]
+                            - paragraph [ref=e332]:
+                              - generic [ref=e333]: Advertise on LinkedIn
+                              - generic [ref=e334]: Advertise on LinkedIn
+                            - paragraph [ref=e335]:
+                              - generic [ref=e336]: Build your brand and drive quality leads. Spend $250 to get an extra $250 on us.
+                              - generic [ref=e337]: Build your brand and drive quality leads. Spend $250 to get an extra $250 on us.
+                            - link "Claim offer" [ref=e338] [cursor=pointer]:
+                              - /url: https://business.linkedin.com/marketing-solutions/cx/25/08/usd-sxgy?mcid=7369886871260196864&src=li-gmp&trk=202509_NAMER_EN_SxGyPromo_CPA_NAMER_USA_CompanyPageAdmins_547
+                          - link [ref=e340] [cursor=pointer]:
+                            - /url: https://business.linkedin.com/marketing-solutions/cx/25/08/usd-sxgy?mcid=7369886871260196864&src=li-gmp&trk=202509_NAMER_EN_SxGyPromo_CPA_NAMER_USA_CompanyPageAdmins_547
+                  - article [ref=e347]:
+                    - generic [ref=e349]:
+                      - heading "Feed post number 3" [level=2] [ref=e350]
+                      - generic [ref=e351]:
+                        - generic [ref=e352]:
+                          - generic [ref=e354]:
+                            - link "Society of American Military Engineers, graphic." [ref=e355] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/same-national/posts
+                            - generic [ref=e359]:
+                              - 'link "View: Society of American Military Engineers 18,140 followers" [ref=e360] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/company/same-national/posts
+                                - generic [ref=e363]:
+                                  - generic [ref=e365]: Society of American Military Engineers
+                                  - generic [ref=e367]: Society of American Military Engineers
+                                - generic [ref=e368]:
+                                  - generic [ref=e369]: 18,140 followers
+                                  - generic [ref=e370]: 18,140 followers
+                              - generic [ref=e371]:
+                                - generic [ref=e372]:
+                                  - text: 6d •
+                                  - img [ref=e375]
+                                - generic [ref=e377]: 6 days ago • Visible to anyone on or off LinkedIn
+                          - button "Open control menu for post by Society of American Military Engineers" [ref=e380] [cursor=pointer]:
+                            - img [ref=e381]
+                        - generic [ref=e384]:
+                          - generic [ref=e387]:
+                            - text: Three things to know about SAME's 2026 Capital Week, March 24-26 in Rockville, Maryland➡️
+                            - link "https://lnkd.in/gNpVUNA" [ref=e388] [cursor=pointer]:
+                              - /url: https://lnkd.in/gNpVUNA
+                            - text: "1️⃣Register before February 13 to save on your capital week attendance, rates will increase after Friday:"
+                            - link "https://bit.ly/4cixe9A" [ref=e389] [cursor=pointer]:
+                              - /url: https://bit.ly/4cixe9A
+                            - text: However, if you're registering as Uniformed Service/Government attendee then your spot at Capital Week is free! See more information with the link above.
+                            - text: 2️⃣The Soaring Eagle Award Dinner & Gala, March 25 during Capital Week, is your chance to join industry leaders, partners, and supporters for a night filled with inspiration, recognition, and celebration. This event is for SAME members and non-members, see more and secure your spot here ➡️
+                            - link "https://bit.ly/3NQuSVr" [ref=e390] [cursor=pointer]:
+                              - /url: https://bit.ly/3NQuSVr
+                            - text: 3️⃣Join us as a benefactor of the Soaring Eagle Awards Celebration and position your brand in front of a high-impact audience of federal A/E/C leaders, decision-makers, and rising professionals ➡️
+                            - link "https://bit.ly/4arAxZF" [ref=e391] [cursor=pointer]:
+                              - /url: https://bit.ly/4arAxZF
+                            - text: Your contribution will amplify this celebration and showcase your commitment to advancing leadership across the federal A/E/C community. By aligning with this prestigious event, you’ll gain visibility among top decision-makers, industry leaders, and emerging professionals—while reinforcing your support for excellence, innovation, and service.
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=e392] [cursor=pointer]:
+                            - generic [ref=e393]: …more
+                        - generic [ref=e395]:
+                          - button "Activate to view larger image, No alternative text description for this image" [ref=e397] [cursor=pointer]:
+                            - generic [ref=e398]: Activate to view larger image,
+                            - img "No alternative text description for this image" [ref=e401]
+                          - generic [ref=e402]: Activate to view larger image,
+                        - generic [ref=e403]:
+                          - list [ref=e407]:
+                            - listitem [ref=e408]:
+                              - button "52 reactions" [ref=e409] [cursor=pointer]:
+                                - img "like" [ref=e410]
+                                - img "love" [ref=e411]
+                                - img "support" [ref=e412]
+                                - generic [ref=e413]: "52"
+                            - listitem [ref=e414]:
+                              - list [ref=e415]:
+                                - listitem [ref=e416]:
+                                  - button "3 reposts of Society of American Military Engineers’ post" [ref=e417] [cursor=pointer]:
+                                    - generic [ref=e418]: 3 reposts
+                          - generic [ref=e419]:
+                            - button "Open menu for switching identity when interacting with this post" [ref=e828] [cursor=pointer]:
+                              - generic [ref=e830]:
+                                - img "Photo of Madina Gbotoe" [ref=e831]
+                                - img [ref=e832]
+                            - generic [ref=e420]:
+                              - button "React Like" [ref=e421] [cursor=pointer]:
+                                - img [ref=e424]
+                              - button "Open reactions menu":
+                                - img [ref=e427] [cursor=pointer]
+                            - button "Comment" [ref=e431] [cursor=pointer]:
+                              - img [ref=e432]
+                            - button [ref=e436] [cursor=pointer]:
+                              - img [ref=e437]
+                            - button "Send in a private message" [ref=e441] [cursor=pointer]:
+                              - img [ref=e442]
+                  - article [ref=e948]:
+                    - generic [ref=e950]:
+                      - heading "Feed post number 4" [level=2] [ref=e951]
+                      - generic [ref=e952]:
+                        - generic [ref=e953]:
+                          - generic [ref=e955]:
+                            - link "Society of American Military Engineers, graphic." [ref=e956] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/same-national/posts
+                            - generic [ref=e960]:
+                              - 'link "View: Society of American Military Engineers 18,140 followers" [ref=e961] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/company/same-national/posts
+                                - generic [ref=e964]:
+                                  - generic [ref=e966]: Society of American Military Engineers
+                                  - generic [ref=e968]: Society of American Military Engineers
+                                - generic [ref=e969]:
+                                  - generic [ref=e970]: 18,140 followers
+                                  - generic [ref=e971]: 18,140 followers
+                              - generic [ref=e972]:
+                                - generic [ref=e973]:
+                                  - text: 3d •
+                                  - img [ref=e976]
+                                - generic [ref=e978]: 3 days ago • Visible to anyone on or off LinkedIn
+                          - button "Open control menu for post by Society of American Military Engineers" [ref=e981] [cursor=pointer]:
+                            - img [ref=e982]
+                        - generic [ref=e985]:
+                          - generic [ref=e988]:
+                            - text: What an incredible day at the SAME Career Transition Workshop! Today brought together transitioning service members, veterans, industry leaders, and mentors—all focused on opening doors, building confidence, and sharpening the skills needed for the next chapter.
+                            - text: From resume deep dives and career coaching to networking that truly matters, this workshop continues to be a powerful space where careers are shaped and futures become clearer. We're grateful to be part of a community that shows up, supports each other, and invests in meaningful transitions.
+                            - link "hashtag SAMEctw26" [ref=e989] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23samectw26&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=e990]: hashtag
+                              - generic [ref=e991]: "#SAMEctw26"
+                            - link "hashtag veterans" [ref=e992] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23veterans&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=e993]: hashtag
+                              - generic [ref=e994]: "#veterans"
+                            - link "hashtag AEC" [ref=e995] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23aec&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=e996]: hashtag
+                              - generic [ref=e997]: "#AEC"
+                            - link "hashtag careers" [ref=e998] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23careers&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=e999]: hashtag
+                              - generic [ref=e1000]: "#careers"
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=e1001] [cursor=pointer]:
+                            - generic [ref=e1002]: …more
+                        - generic [ref=e1004]:
+                          - generic [ref=e1005]:
+                            - button "Activate to view larger image, No alternative text description for this image +2 images" [ref=e1006] [cursor=pointer]:
+                              - img [ref=e1009]
+                            - button "Activate to view larger image, No alternative text description for this image +2 images" [ref=e1010] [cursor=pointer]:
+                              - img [ref=e1013]
+                            - button "Activate to view larger image, No alternative text description for this image +2 images" [ref=e1014] [cursor=pointer]:
+                              - img [ref=e1017]
+                            - button "Activate to view larger image, No alternative text description for this image +2 images" [ref=e1018] [cursor=pointer]:
+                              - img [ref=e1021]
+                              - generic [ref=e1023]: "+2"
+                          - generic [ref=e1024]: Activate to view larger image,
+                        - generic [ref=e1025]:
+                          - list [ref=e1029]:
+                            - listitem [ref=e1030]:
+                              - button "Steve Price and 109 others" [ref=e1031] [cursor=pointer]:
+                                - img "like" [ref=e1032]
+                                - img "celebrate" [ref=e1033]
+                                - img "love" [ref=e1034]
+                                - generic [ref=e1035]:
+                                  - generic [ref=e1036]: "110"
+                                  - generic [ref=e1037]: Steve Price and 109 others
+                            - listitem [ref=e1038]:
+                              - list [ref=e1039]:
+                                - listitem [ref=e1040]:
+                                  - button "9 comments on Society of American Military Engineers’ post" [ref=e1041] [cursor=pointer]:
+                                    - generic [ref=e1042]: 9 comments
+                                  - text: ·
+                                - listitem [ref=e1043]:
+                                  - button "9 reposts of Society of American Military Engineers’ post" [ref=e1044] [cursor=pointer]:
+                                    - generic [ref=e1045]: 9 reposts
+                          - generic [ref=e1046]:
+                            - button "Open menu for switching identity when interacting with this post" [ref=e1048] [cursor=pointer]:
+                              - generic [ref=e1050]:
+                                - img "Photo of Madina Gbotoe" [ref=e1051]
+                                - img [ref=e1052]
+                            - generic [ref=e1054]:
+                              - button "React Like" [ref=e1055] [cursor=pointer]:
+                                - img [ref=e1058]
+                              - button "Open reactions menu":
+                                - img [ref=e1061] [cursor=pointer]
+                            - button "Comment" [ref=e1065] [cursor=pointer]:
+                              - img [ref=e1066]
+                            - button [ref=e1070] [cursor=pointer]:
+                              - img [ref=e1071]
+                            - button "Send in a private message" [ref=e1075] [cursor=pointer]:
+                              - img [ref=e1076]
+                  - article [ref=e1080]:
+                    - generic [ref=e1082]:
+                      - heading "Feed post number 5" [level=2] [ref=e1083]
+                      - generic [ref=e1084]:
+                        - generic [ref=e1085]:
+                          - generic [ref=e1087]:
+                            - link "Society of American Military Engineers, graphic." [ref=e1088] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/same-national/posts
+                            - generic [ref=e1092]:
+                              - 'link "View: Society of American Military Engineers 18,140 followers" [ref=e1093] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/company/same-national/posts
+                                - generic [ref=e1096]:
+                                  - generic [ref=e1098]: Society of American Military Engineers
+                                  - generic [ref=e1100]: Society of American Military Engineers
+                                - generic [ref=e1101]:
+                                  - generic [ref=e1102]: 18,140 followers
+                                  - generic [ref=e1103]: 18,140 followers
+                              - generic [ref=e1104]:
+                                - generic [ref=e1105]:
+                                  - text: 4d •
+                                  - img [ref=e1108]
+                                - generic [ref=e1110]: 4 days ago • Visible to anyone on or off LinkedIn
+                          - button "Open control menu for post by Society of American Military Engineers" [ref=e1113] [cursor=pointer]:
+                            - img [ref=e1114]
+                        - generic [ref=e1117]:
+                          - generic [ref=e1120]:
+                            - text: At the SAME Japan Industry Forum, military and industry professionals gathered to share insights, strengthen partnerships, and advance solutions supporting the Indo-Pacific region.
+                            - text: Read how this event is helping to shape the national security outlook this important region➡️
+                            - link "https://bit.ly/3M2UdLm" [ref=e1121] [cursor=pointer]:
+                              - /url: https://bit.ly/3M2UdLm
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=e1122] [cursor=pointer]:
+                            - generic [ref=e1123]: …more
+                        - generic [ref=e1125]:
+                          - generic [ref=e1126]:
+                            - button "Activate to view larger image, No alternative text description for this image" [ref=e1127] [cursor=pointer]:
+                              - img [ref=e1130]
+                            - button "Activate to view larger image, No alternative text description for this image" [ref=e1131] [cursor=pointer]:
+                              - img [ref=e1134]
+                            - button "Activate to view larger image, No alternative text description for this image" [ref=e1135] [cursor=pointer]:
+                              - img [ref=e1138]
+                          - generic [ref=e1139]: Activate to view larger image,
+                        - generic [ref=e1140]:
+                          - list [ref=e1144]:
+                            - listitem [ref=e1145]:
+                              - button "14 reactions" [ref=e1146] [cursor=pointer]:
+                                - img "like" [ref=e1147]
+                                - generic [ref=e1148]: "14"
+                          - generic [ref=e1149]:
+                            - button "Open menu for switching identity when interacting with this post" [ref=e1151] [cursor=pointer]:
+                              - generic [ref=e1153]:
+                                - img "Photo of Madina Gbotoe" [ref=e1154]
+                                - img [ref=e1155]
+                            - generic [ref=e1157]:
+                              - button "React Like" [ref=e1158] [cursor=pointer]:
+                                - img [ref=e1161]
+                              - button "Open reactions menu":
+                                - img [ref=e1164] [cursor=pointer]
+                            - button "Comment" [ref=e1168] [cursor=pointer]:
+                              - img [ref=e1169]
+                            - button [ref=e1173] [cursor=pointer]:
+                              - img [ref=e1174]
+                            - button "Send in a private message" [ref=e1178] [cursor=pointer]:
+                              - img [ref=e1179]
+                  - article [ref=e1183]:
+                    - generic [ref=e1185]:
+                      - heading "Feed post number 6" [level=2] [ref=e1186]
+                      - generic [ref=e1187]:
+                        - generic [ref=e1188]:
+                          - generic [ref=e1190]:
+                            - link "Society of American Military Engineers, graphic." [ref=e1191] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/same-national/posts
+                            - generic [ref=e1195]:
+                              - 'link "View: Society of American Military Engineers 18,140 followers" [ref=e1196] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/company/same-national/posts
+                                - generic [ref=e1199]:
+                                  - generic [ref=e1201]: Society of American Military Engineers
+                                  - generic [ref=e1203]: Society of American Military Engineers
+                                - generic [ref=e1204]:
+                                  - generic [ref=e1205]: 18,140 followers
+                                  - generic [ref=e1206]: 18,140 followers
+                              - generic [ref=e1207]:
+                                - generic [ref=e1208]:
+                                  - text: 5d •
+                                  - img [ref=e1211]
+                                - generic [ref=e1213]: 5 days ago • Visible to anyone on or off LinkedIn
+                          - button "Open control menu for post by Society of American Military Engineers" [ref=e1216] [cursor=pointer]:
+                            - img [ref=e1217]
+                        - generic [ref=e1220]:
+                          - generic [ref=e1223]:
+                            - text: Register now for the 2026 Joint Engineering Training Conference (JETC), taking place May 19–21, 2026 in Portland, Oregon ➡️
+                            - link "https://bit.ly/4qVKJAp" [ref=e1224] [cursor=pointer]:
+                              - /url: https://bit.ly/4qVKJAp
+                            - text: JETC is SAME’s premier professional development event, delivering mission‑essential training and collaboration for the joint engineer community and A/E/C professionals. Come together for three days of education, training, and networking which is simply unmatched within the industry.
+                            - text: Early registration is strongly encouraged to support travel authorization, supervisory approval, and resource planning. If you are a student or military/government professional, we’re pleased to share that SAME membership now includes complimentary registration for JETC 2026. As a valued member, you can attend this premier event at no additional cost!
+                            - text: See more about
+                            - link "hashtag SAMEJETC26" [ref=e1225] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23samejetc26&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=e1226]: hashtag
+                              - generic [ref=e1227]: "#SAMEJETC26"
+                            - text: on our website ➡️
+                            - link "https://www.samejetc.org" [ref=e1228] [cursor=pointer]:
+                              - /url: https://www.samejetc.org
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=e1229] [cursor=pointer]:
+                            - generic [ref=e1230]: …more
+                        - generic [ref=e1231]:
+                          - 'link "View event: 2026 Joint Engineer Training Conference & Expo" [ref=e1232] [cursor=pointer]':
+                            - /url: https://www.linkedin.com/events/2026jointengineertrainingconfer7427064492901208064/
+                          - generic [ref=e1235]:
+                            - link "Tue, May 19, 8:00 AM - Thu, May 21, 4:00 PM PDT 2026 Joint Engineer Training Conference & Expo Portland, US" [ref=e1236] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/events/2026jointengineertrainingconfer7427064492901208064/
+                              - generic [ref=e1237]:
+                                - time [ref=e1238]: Tue, May 19, 8:00 AM - Thu, May 21, 4:00 PM PDT
+                                - heading "2026 Joint Engineer Training Conference & Expo" [level=2] [ref=e1239]
+                                - generic [ref=e1241]:
+                                  - img [ref=e1243]
+                                  - text: Portland, US
+                            - 'link "View event: 2026 Joint Engineer Training Conference & Expo" [ref=e1245] [cursor=pointer]':
+                              - /url: https://www.linkedin.com/events/2026jointengineertrainingconfer7427064492901208064/
+                              - text: View event
+                        - generic [ref=e1246]:
+                          - list [ref=e1250]:
+                            - listitem [ref=e1251]:
+                              - button "33 reactions" [ref=e1252] [cursor=pointer]:
+                                - img "like" [ref=e1253]
+                                - img "love" [ref=e1254]
+                                - img "celebrate" [ref=e1255]
+                                - generic [ref=e1256]: "33"
+                            - listitem [ref=e1257]:
+                              - list [ref=e1258]:
+                                - listitem [ref=e1259]:
+                                  - button "10 reposts of Society of American Military Engineers’ post" [ref=e1260] [cursor=pointer]:
+                                    - generic [ref=e1261]: 10 reposts
+                          - generic [ref=e1262]:
+                            - button "Open menu for switching identity when interacting with this post" [ref=e1264] [cursor=pointer]:
+                              - generic [ref=e1266]:
+                                - img "Photo of Madina Gbotoe" [ref=e1267]
+                                - img [ref=e1268]
+                            - generic [ref=e1270]:
+                              - button "React Like" [ref=e1271] [cursor=pointer]:
+                                - img [ref=e1274]
+                              - button "Open reactions menu":
+                                - img [ref=e1277] [cursor=pointer]
+                            - button "Comment" [ref=e1281] [cursor=pointer]:
+                              - img [ref=e1282]
+                            - button [ref=e1286] [cursor=pointer]:
+                              - img [ref=e1287]
+                            - button "Send in a private message" [ref=e1291] [cursor=pointer]:
+                              - img [ref=e1292]
+                  - article [ref=e1296]:
+                    - generic [ref=e1298]:
+                      - heading "Feed post number 7" [level=2] [ref=e1299]
+                      - generic [ref=e1300]:
+                        - generic [ref=e1301]:
+                          - generic [ref=e1303]:
+                            - link "Society of American Military Engineers, graphic." [ref=e1304] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/same-national/posts
+                            - generic [ref=e1308]:
+                              - 'link "View: Society of American Military Engineers 18,140 followers" [ref=e1309] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/company/same-national/posts
+                                - generic [ref=e1312]:
+                                  - generic [ref=e1314]: Society of American Military Engineers
+                                  - generic [ref=e1316]: Society of American Military Engineers
+                                - generic [ref=e1317]:
+                                  - generic [ref=e1318]: 18,140 followers
+                                  - generic [ref=e1319]: 18,140 followers
+                              - generic [ref=e1320]:
+                                - generic [ref=e1321]:
+                                  - text: 1w •
+                                  - img [ref=e1324]
+                                - generic [ref=e1326]: 1 week ago • Visible to anyone on or off LinkedIn
+                          - button "Open control menu for post by Society of American Military Engineers" [ref=e1329] [cursor=pointer]:
+                            - img [ref=e1330]
+                        - generic [ref=e1333]:
+                          - generic [ref=e1336]:
+                            - text: "If you haven’t registered yet, there’s still time—but space is filling quickly for the Europe Tri‑Services Regional Summit:"
+                            - link "https://bit.ly/4qikP92" [ref=e1337] [cursor=pointer]:
+                              - /url: https://bit.ly/4qikP92
+                            - text: Taking place March 3–5, 2026, this bi‑annual gathering brings together senior leaders and experts from NAVFAC EURAFCENT, NAVFAC Atlantic, AFIMSC Det 4, USACE Europe & Middle East Districts, and key mission partners to address the most pressing challenges across the European, African, and Central Commands.
+                            - text: From operational updates and technical sessions to collaborative roundtables, the Summit provides a rare opportunity to engage directly with decision‑makers, strengthen partnerships, and gain insights that drive mission success across the tri‑services engineering community.
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=e1338] [cursor=pointer]:
+                            - generic [ref=e1339]: …more
+                        - generic [ref=e1341]:
+                          - button "Activate to view larger image, No alternative text description for this image" [ref=e1343] [cursor=pointer]:
+                            - generic [ref=e1344]: Activate to view larger image,
+                            - img "No alternative text description for this image" [ref=e1347]
+                          - generic [ref=e1348]: Activate to view larger image,
+                        - generic [ref=e1349]:
+                          - list [ref=e1353]:
+                            - listitem [ref=e1354]:
+                              - button "31 reactions" [ref=e1355] [cursor=pointer]:
+                                - img "like" [ref=e1356]
+                                - generic [ref=e1357]: "31"
+                            - listitem [ref=e1358]:
+                              - list [ref=e1359]:
+                                - listitem [ref=e1360]:
+                                  - button "2 comments on Society of American Military Engineers’ post" [ref=e1361] [cursor=pointer]:
+                                    - generic [ref=e1362]: 2 comments
+                                  - text: ·
+                                - listitem [ref=e1363]:
+                                  - button "1 repost of Society of American Military Engineers’ post" [ref=e1364] [cursor=pointer]:
+                                    - generic [ref=e1365]: 1 repost
+                          - generic [ref=e1366]:
+                            - button "Open menu for switching identity when interacting with this post" [ref=e1368] [cursor=pointer]:
+                              - generic [ref=e1370]:
+                                - img "Photo of Madina Gbotoe" [ref=e1371]
+                                - img [ref=e1372]
+                            - generic [ref=e1374]:
+                              - button "React Like" [ref=e1375] [cursor=pointer]:
+                                - img [ref=e1378]
+                              - button "Open reactions menu":
+                                - img [ref=e1381] [cursor=pointer]
+                            - button "Comment" [ref=e1385] [cursor=pointer]:
+                              - img [ref=e1386]
+                            - button [ref=e1390] [cursor=pointer]:
+                              - img [ref=e1391]
+                            - button "Send in a private message" [ref=e1395] [cursor=pointer]:
+                              - img [ref=e1396]
+                  - article [ref=e1400]:
+                    - generic [ref=e1402]:
+                      - heading "Feed post number 8" [level=2] [ref=e1403]
+                      - generic [ref=e1404]:
+                        - generic [ref=e1405]:
+                          - generic [ref=e1407]:
+                            - link "Society of American Military Engineers, graphic." [ref=e1408] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/same-national/posts
+                            - generic [ref=e1412]:
+                              - 'link "View: Society of American Military Engineers 18,140 followers" [ref=e1413] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/company/same-national/posts
+                                - generic [ref=e1416]:
+                                  - generic [ref=e1418]: Society of American Military Engineers
+                                  - generic [ref=e1420]: Society of American Military Engineers
+                                - generic [ref=e1421]:
+                                  - generic [ref=e1422]: 18,140 followers
+                                  - generic [ref=e1423]: 18,140 followers
+                              - generic [ref=e1424]:
+                                - generic [ref=e1425]:
+                                  - text: 1w •
+                                  - img [ref=e1428]
+                                - generic [ref=e1430]: 1 week ago • Visible to anyone on or off LinkedIn
+                          - button "Open control menu for post by Society of American Military Engineers" [ref=e1433] [cursor=pointer]:
+                            - img [ref=e1434]
+                        - generic [ref=e1437]:
+                          - generic [ref=e1440]:
+                            - text: This week it was great to welcome Col. Donald Hazen, F.SAME, USA (Ret.), to the National Office and to thank him for his continued support of the SAME Foundation and the Society.
+                            - text: He also shared with us a commemorative from SAME’s 75th Anniversary Celebration that took place in Omaha in 1995, which will be displayed in our front lobby.
+                            - text: 🔹At Capital Week this year, the SAME Foundation is proud to present the inaugural Soaring Eagle Award dinner and gala, March 25.
+                            - text: "The Soaring Eagle Award honors visionary leadership that uplifts the A/E/C industry and inspires the next generation of STEM professionals. See more and sure your spot for this event here:"
+                            - link "https://lnkd.in/eykYFd5k" [ref=e1441] [cursor=pointer]:
+                              - /url: https://lnkd.in/eykYFd5k
+                            - text: 🔹Finally, we have just opened registration this week for the 2026 Joint Engineering Training Conference (JETC), taking place May 19–21, 2026 in Portland, Oregon.
+                            - text: JETC is SAME’s premier professional development event, delivering mission‑essential training and collaboration for the joint engineer community and A/E/C professionals. Come together for three days of education, training, and networking which is simply unmatched within the industry. Register and save today!
+                            - link "https://www.samejetc.org/" [ref=e1442] [cursor=pointer]:
+                              - /url: https://www.samejetc.org/
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=e1443] [cursor=pointer]:
+                            - generic [ref=e1444]: …more
+                        - generic [ref=e1446]:
+                          - generic [ref=e1447]:
+                            - button "Activate to view larger image, No alternative text description for this image" [ref=e1448] [cursor=pointer]:
+                              - img [ref=e1451]
+                            - button "Activate to view larger image, No alternative text description for this image" [ref=e1452] [cursor=pointer]:
+                              - img [ref=e1455]
+                            - button "Activate to view larger image, No alternative text description for this image" [ref=e1456] [cursor=pointer]:
+                              - img [ref=e1459]
+                            - button "Activate to view larger image, No alternative text description for this image" [ref=e1460] [cursor=pointer]:
+                              - img [ref=e1463]
+                          - generic [ref=e1464]: Activate to view larger image,
+                        - generic [ref=e1465]:
+                          - list [ref=e1469]:
+                            - listitem [ref=e1470]:
+                              - button "14 reactions" [ref=e1471] [cursor=pointer]:
+                                - img "like" [ref=e1472]
+                                - generic [ref=e1473]: "14"
+                          - generic [ref=e1474]:
+                            - button "Open menu for switching identity when interacting with this post" [ref=e1476] [cursor=pointer]:
+                              - generic [ref=e1478]:
+                                - img "Photo of Madina Gbotoe" [ref=e1479]
+                                - img [ref=e1480]
+                            - generic [ref=e1482]:
+                              - button "React Like" [ref=e1483] [cursor=pointer]:
+                                - img [ref=e1486]
+                              - button "Open reactions menu":
+                                - img [ref=e1489] [cursor=pointer]
+                            - button "Comment" [ref=e1493] [cursor=pointer]:
+                              - img [ref=e1494]
+                            - button [ref=e1498] [cursor=pointer]:
+                              - img [ref=e1499]
+                            - button "Send in a private message" [ref=e1503] [cursor=pointer]:
+                              - img [ref=e1504]
+                  - article [ref=e1508]:
+                    - generic [ref=e1510]:
+                      - heading "Feed post number 9" [level=2] [ref=e1511]
+                      - generic [ref=e1512]:
+                        - generic [ref=e1513]:
+                          - generic [ref=e1515]:
+                            - link "View Society of American Military Engineers" [ref=e1516] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/same-national/?miniCompanyUrn=urn%3Ali%3Afsd_company%3A229263
+                              - img "View Society of American Military Engineers" [ref=e1519]
+                            - generic [ref=e1520]:
+                              - link "Society of American Military Engineers" [ref=e1522] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/company/same-national/
+                              - text: reposted this
+                          - button "Open control menu for post by SAME College Outreach COI" [ref=e1525] [cursor=pointer]:
+                            - img [ref=e1526]
+                          - generic [ref=e1528]:
+                            - generic [ref=e1529]:
+                              - link "SAME College Outreach COI, graphic." [ref=e1530] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/company/same-college-outreach-coi/posts
+                              - generic [ref=e1534]:
+                                - 'link "View: SAME College Outreach COI 58 followers" [ref=e1535] [cursor=pointer]':
+                                  - /url: https://www.linkedin.com/company/same-college-outreach-coi/posts
+                                  - generic [ref=e1538]:
+                                    - generic [ref=e1540]: SAME College Outreach COI
+                                    - generic [ref=e1542]: SAME College Outreach COI
+                                  - generic [ref=e1543]:
+                                    - generic [ref=e1544]: 58 followers
+                                    - generic [ref=e1545]: 58 followers
+                                - generic [ref=e1546]:
+                                  - generic [ref=e1547]:
+                                    - text: 2w •
+                                    - img [ref=e1550]
+                                  - generic [ref=e1552]: 2 weeks ago • Visible to anyone on or off LinkedIn
+                            - button "Follow SAME College Outreach COI" [ref=e1553] [cursor=pointer]:
+                              - img [ref=e1554]
+                              - generic [ref=e1556]: Follow
+                        - generic [ref=e1558]:
+                          - generic [ref=e1561]:
+                            - text: 📢 DEADLINE EXTENSION! 📢
+                            - text: The deadline for abstract submission has been extended to February 24! Submit your 250-word abstract at
+                            - link "https://lnkd.in/gjsx_5xd" [ref=e1562] [cursor=pointer]:
+                              - /url: https://lnkd.in/gjsx_5xd
+                            - text: to win CASH PRIZES! 💵
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=e1563] [cursor=pointer]:
+                            - generic [ref=e1564]: …more
+                        - generic [ref=e1566]:
+                          - button "Activate to view larger image, No alternative text description for this image" [ref=e1568] [cursor=pointer]:
+                            - generic [ref=e1569]: Activate to view larger image,
+                            - img "No alternative text description for this image" [ref=e1572]
+                          - generic [ref=e1573]: Activate to view larger image,
+                        - generic [ref=e1574]:
+                          - list [ref=e1578]:
+                            - listitem [ref=e1579]:
+                              - button "9 reactions" [ref=e1580] [cursor=pointer]:
+                                - img "like" [ref=e1581]
+                                - img "love" [ref=e1582]
+                                - generic [ref=e1583]: "9"
+                            - listitem [ref=e1584]:
+                              - list [ref=e1585]:
+                                - listitem [ref=e1586]:
+                                  - button "5 reposts of SAME College Outreach COI’s post" [ref=e1587] [cursor=pointer]:
+                                    - generic [ref=e1588]: 5 reposts
+                          - generic [ref=e1589]:
+                            - button "Open menu for switching identity when interacting with this post" [ref=e1591] [cursor=pointer]:
+                              - generic [ref=e1593]:
+                                - img "Photo of Madina Gbotoe" [ref=e1594]
+                                - img [ref=e1595]
+                            - generic [ref=e1597]:
+                              - button "React Like" [ref=e1598] [cursor=pointer]:
+                                - img [ref=e1601]
+                              - button "Open reactions menu":
+                                - img [ref=e1604] [cursor=pointer]
+                            - button "Comment" [ref=e1608] [cursor=pointer]:
+                              - img [ref=e1609]
+                            - button [ref=e1613] [cursor=pointer]:
+                              - img [ref=e1614]
+                            - button "Send in a private message" [ref=e1618] [cursor=pointer]:
+                              - img [ref=e1619]
+                - button "Show more results" [ref=e856] [cursor=pointer]:
+                  - generic [ref=e857]: Show more results
+        - complementary "Advertisement" [ref=e460]:
+          - iframe [ref=e859]:
+            - main "Work With Us Container" [ref=f1e3]:
+              - generic [ref=f1e4]:
+                - img [ref=f1e6]
+                - generic [ref=f1e7]:
+                  - img "Madina" [ref=f1e8]
+                  - link "Orb" [ref=f1e9] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F74161410%2Flife&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGcZBa9weEmBvkKqwzWiEKUwallcOcjR2XVQTr28PHPik70mynspQ7cL5tc5VziqYnXZDpsfAE3Fo8GDrFN82f-Cej1M3nsdMBTmZtaUOkVoXvsD-4ntUJZT9vI9U_wsHfjWSSmQlE59w-C8Ob8DnWB4xkTlYegpOaHzFcaxciWNvsZZo5hc-JylASxnw1lHYLrC8Ft5WMy2mSvSzs0uNpL8O5gDpncDQN8oZ_jMu9sfZR8rMOR0Qy5kpiWWKFVUoQ0CehouV2gmrUfZVQNMWO6U8NG_Tm9F2C0Cvq_a45hHcJge8IpdC23QaSoYcdrPw0TNIVGppx16kVjm0i_L3VwWfc08MJDW3xAASPgTEJ0vvx2Gqs3bAJRzWK1NQG_7vp41hwYnmarjnM5omnHET0xGq88z5fXwhCFa9P9ZmkfNv3Gm40qdQtxpPy82OBwrMT46TtKs5J7H54n6A_ZdgxqJ6kU7g9yo5WSjNCgCDtNkb3SQY1XimFibQqhwCDF_fhVUvtiZSRiBcCpwem-sWhqq_SmmENt2A5IKZomm6WwqNaX24a74irxHaTu9N-qlpWzHhvZNfSeL0XmZPxRwrWaFXoRHz3xWo7woJrzD3uL16ZBtNbpwT3ktAqlAOBM6ISyaIo4SbTzG4N87S0eZcWTEfKHjaBI8w_dGP1kwcmHbla8vNbgSQ2asJSBMaYNTHtpihVMuPU_0-FNMYS1gqBx_-sOtysmWFVxyV9VJJMi9BDvqfjQoovRK3tr0jzwti_jn9aZtIRNX8p-WTjayifs0AGpLgPcKYYB5csB8z6HSB0hDOn4hTB9Ir651DVQVFlQKaDfX7ANwDvWHJMOndow6-afYlVWXUZN7QTq1bLOhUqYG5r4LNFfmH4ztp9A6DSsnLv8tq-7K5FkJht8aEyFWius3vn3zJFvE2slO2Mo2cx8laQ_btH3B86D0ntpyF_cx1i5XRfPfQECEZEawvmXPhINTTgpB4AP5Bk5O2rUbATKtEZrDT7JkkVGfGz4Hx_-GSvqmwePV6Ti3xPjquNFGbT38-8McWYwavXu8r_JHIM1DdVzljaCGqYXUQlIoC5oiKo%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_company_posts%22%2C%22trackingId%22%3A%220b6ca786-8482-470c-98cc-77ce7932ef79%22%7D%2C%22time%22%3A1771205737865%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_company_posts%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A0720852961937744994
+                    - img "Orb" [ref=f1e10]
+              - generic [ref=f1e11]:
+                - generic [ref=f1e12]:
+                  - paragraph [ref=f1e13]: Madina, explore relevant opportunities with Orb
+                  - paragraph [ref=f1e14]: Get the latest jobs and industry news
+                - link "Follow" [ref=f1e15] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F74161410%2Flife%3FisFollowingPage%3Dtrue&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGcZBa9wW3cnNBf7_-36FOOZ4j1eMU9dpEI8ErJ8RiaBloH3eaHdKGOXIQ-9F3dus3qptfdpwU31bZWLDpsQNncs_UDutF-tmND_GWxCbbfbdQGNw-UF6F2zv6VcBcMJnqTtJogchmALBPvxxRdl38SEpez7NpTQMKYs-UQfgptES3w_aAsJwHwTQSoZRSHoZ-j1N9NEL-HmVq_RqRcbFDVNAq0HTzg_JM20vYuZH2PlspoN2SupXnGC8i8XMdCHrwHh65Wq7RQiZy-kr8aQYJb4fXcv9b_Bo0sxY58ZCuq36TSCouETtigzcQuOScEmiS08TVBBlGOiqrTGFRmp1FElsLHtg_GTwjcVE65hhBCozMbNt-6TfSXiHC0WdG63mahjZ9pKseS5Gqg95oZLbH9s8noXfhR7zbE-XQ4t44fJHapFvTfBT-XAKMBkfIxvPGYjs0Xgus32iV3Y6Z-rPw8NciexqYlXTnK-zrkuKbU9BxJEnjLecPudte8lLyUsQsljtZtZbYJxH_v8SiNLKOWoLpMyldR70DDJ0b0lju9kPqdUA5RYurhtyK16nsswatJFh7JZzUqOT7pFmkav7R0ln9Z_rujPJD0KDhbPVNJpyEx_Y0ds4uxoMAMkELJv-_V6rPZmCpBYFw2YovlOLAnMFXPQmg1-UONn2kaNev5PlVFK7NR2qgG6SPan817Zt6_G2YHV8VSnJjScS3cBOTndVcoAxesVqtWOWZgUdN65IdwruuqX8dGq9jtzuUd2RHUBThvLepmMzYGW9yyNQ2r2-ugIr012Qa1cySzYlV6-LnoceuhYQiaYbIExyaqGhp6oLbVnC_N67YRlIb_AMWF7lnclCNCW_bXEnXv1guo-P8R6NBxe8_E38LOlsIFbXyO4USzDytjOSWk0ASBTck6n7ydeGezw4xLPIYRBchLuRY1s7PwDT5wSjd-YlIVaHLnwM6qD0c9aemS_Xh8MkN-K_T-xGVwm4UYmCHKNl_RnBZEmj44SFPMQiREQueC7sACLlxOHLqbLhelJ926kVD45D8hLsgsbH2JVW2TaD4Wj93bmpVVHcleubjXVh53LCv2kPmMsTXtc_YGSADEs0FXUGkzcQeSRIcv5FMio7qxbXH6b9k%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_company_posts%22%2C%22trackingId%22%3A%2205944edf-a35a-41b2-a880-7953977fc3c1%22%7D%2C%22time%22%3A1771205737865%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_company_posts%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A0720852961937744994
+              - generic [ref=f1e16]:
+                - paragraph [ref=f1e17]: Promoted
+                - button "Ad Options" [ref=f1e18] [cursor=pointer]:
+                  - img [ref=f1e19]
+                  - generic [ref=f1e23]: Ad Options
+          - generic [ref=e463]:
+            - generic [ref=e468]:
+              - heading "Affiliated pages" [level=3] [ref=e470]
+              - list [ref=e472]:
+                - listitem [ref=e473]:
+                  - generic [ref=e474]:
+                    - generic [ref=e475]:
+                      - link "Small Business Conference page logo" [ref=e477] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/showcase/samesbc/
+                        - generic "Small Business Conference page logo" [ref=e479]:
+                          - img "Small Business Conference page logo" [ref=e481]
+                      - link "Small Business Conference Government Relations Services Showcase page" [ref=e484] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/showcase/samesbc/
+                        - generic [ref=e485]:
+                          - generic [ref=e487]: Small Business Conference
+                          - generic [ref=e489]: Government Relations Services
+                          - generic [ref=e491]: Showcase page
+                    - button "Follow Small Business Conference" [ref=e493] [cursor=pointer]:
+                      - img [ref=e494]
+                      - generic [ref=e496]: Follow
+            - generic [ref=e500]:
+              - generic [ref=e501]:
+                - heading "Pages people also viewed" [level=3] [ref=e503]
+                - list [ref=e505]:
+                  - listitem [ref=e506]:
+                    - generic [ref=e507]:
+                      - generic [ref=e508]:
+                        - link "US Army Corps of Engineers page logo" [ref=e510] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/company/us-army-corps-of-engineers/
+                          - generic "US Army Corps of Engineers page logo" [ref=e512]:
+                            - img "US Army Corps of Engineers page logo" [ref=e514]
+                        - generic [ref=e515]:
+                          - link "US Army Corps of Engineers Armed Forces 244,851 followers" [ref=e517] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/us-army-corps-of-engineers/
+                            - generic [ref=e518]:
+                              - generic [ref=e520]: US Army Corps of Engineers
+                              - generic [ref=e522]: Armed Forces
+                              - generic [ref=e524]: 244,851 followers
+                          - link "Collette Wehr Collette & 17 other connections follow this page" [ref=e526] [cursor=pointer]:
+                            - /url: http://www.linkedin.com/company/us-army-corps-of-engineers/?showInNetworkFollowers=true
+                            - generic [ref=e530]: Collette Wehr
+                            - generic [ref=e531]: Collette & 17 other connections follow this page
+                      - button "Follow US Army Corps of Engineers" [ref=e533] [cursor=pointer]:
+                        - img [ref=e534]
+                        - generic [ref=e536]: Follow
+                  - listitem [ref=e537]:
+                    - generic [ref=e538]:
+                      - generic [ref=e539]:
+                        - link "SAME Young Professionals COI page logo" [ref=e541] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/company/same-young-professionals/
+                          - generic "SAME Young Professionals COI page logo" [ref=e543]:
+                            - img "SAME Young Professionals COI page logo" [ref=e545]
+                        - generic [ref=e546]:
+                          - link "SAME Young Professionals COI Civil Engineering 845 followers" [ref=e548] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/same-young-professionals/
+                            - generic [ref=e549]:
+                              - generic [ref=e551]: SAME Young Professionals COI
+                              - generic [ref=e553]: Civil Engineering
+                              - generic [ref=e555]: 845 followers
+                          - link "JR Gregory, P.L.S. JR & 3 other connections follow this page" [ref=e557] [cursor=pointer]:
+                            - /url: http://www.linkedin.com/company/same-young-professionals/?showInNetworkFollowers=true
+                            - img "JR Gregory, P.L.S." [ref=e560]
+                            - generic [ref=e561]: JR & 3 other connections follow this page
+                      - button "Follow SAME Young Professionals COI" [ref=e563] [cursor=pointer]:
+                        - img [ref=e564]
+                        - generic [ref=e566]: Follow
+                  - listitem [ref=e567]:
+                    - generic [ref=e568]:
+                      - generic [ref=e569]:
+                        - link "ATLANTIC CONTRACT POLAND page logo" [ref=e571] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/company/atlanticcontract/
+                          - generic "ATLANTIC CONTRACT POLAND page logo" [ref=e573]:
+                            - img "ATLANTIC CONTRACT POLAND page logo" [ref=e575]
+                        - link "ATLANTIC CONTRACT POLAND Business Consulting and Services 2,503 followers" [ref=e578] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/company/atlanticcontract/
+                          - generic [ref=e579]:
+                            - generic [ref=e581]: ATLANTIC CONTRACT POLAND
+                            - generic [ref=e583]: Business Consulting and Services
+                            - generic [ref=e585]: 2,503 followers
+                      - button "Follow ATLANTIC CONTRACT POLAND" [ref=e587] [cursor=pointer]:
+                        - img [ref=e588]
+                        - generic [ref=e590]: Follow
+              - button "Show all similar pages" [ref=e592] [cursor=pointer]:
+                - img [ref=e593]
+                - generic [ref=e595]: Show all
+            - generic [ref=e599]:
+              - generic [ref=e600]:
+                - heading "People also follow" [level=3] [ref=e602]
+                - list [ref=e604]:
+                  - listitem [ref=e605]:
+                    - generic [ref=e606]:
+                      - generic [ref=e607]:
+                        - link "ATD - Research Triangle Area Chapter page logo" [ref=e609] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/company/atd-research-triangle-area/
+                          - generic "ATD - Research Triangle Area Chapter page logo" [ref=e611]:
+                            - img "ATD - Research Triangle Area Chapter page logo" [ref=e613]
+                        - generic [ref=e614]:
+                          - link "ATD - Research Triangle Area Chapter Professional Training and Coaching 688 followers" [ref=e616] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/atd-research-triangle-area/
+                            - generic [ref=e617]:
+                              - generic [ref=e619]: ATD - Research Triangle Area Chapter
+                              - generic [ref=e621]: Professional Training and Coaching
+                              - generic [ref=e623]: 688 followers
+                          - link "Lauren Irving, MBA Lauren follows this page" [ref=e625] [cursor=pointer]:
+                            - /url: http://www.linkedin.com/in/lauren-irving-nc
+                            - img "Lauren Irving, MBA" [ref=e628]
+                            - generic [ref=e629]: Lauren follows this page
+                      - button "Follow ATD - Research Triangle Area Chapter" [ref=e631] [cursor=pointer]:
+                        - img [ref=e632]
+                        - generic [ref=e634]: Follow
+                  - listitem [ref=e635]:
+                    - generic [ref=e636]:
+                      - generic [ref=e637]:
+                        - link "TechWalk page logo" [ref=e639] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/company/techwalk/
+                          - generic "TechWalk page logo" [ref=e641]:
+                            - img "TechWalk page logo" [ref=e643]
+                        - generic [ref=e644]:
+                          - link "TechWalk Technology, Information and Internet 6,334 followers" [ref=e646] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/techwalk/
+                            - generic [ref=e647]:
+                              - generic [ref=e649]: TechWalk
+                              - generic [ref=e651]: Technology, Information and Internet
+                              - generic [ref=e653]: 6,334 followers
+                          - link "Mimi Leinbach, MBA Mimi & 8 other connections follow this page" [ref=e655] [cursor=pointer]:
+                            - /url: http://www.linkedin.com/company/techwalk/?showInNetworkFollowers=true
+                            - img "Mimi Leinbach, MBA" [ref=e658]
+                            - generic [ref=e659]: Mimi & 8 other connections follow this page
+                      - button "Follow TechWalk" [ref=e661] [cursor=pointer]:
+                        - img [ref=e662]
+                        - generic [ref=e664]: Follow
+                  - listitem [ref=e665]:
+                    - generic [ref=e666]:
+                      - generic [ref=e667]:
+                        - link "Abbott page logo" [ref=e669] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/company/abbott-/
+                          - generic "Abbott page logo" [ref=e671]:
+                            - img "Abbott page logo" [ref=e673]
+                        - generic [ref=e674]:
+                          - link "Abbott Hospitals and Health Care 4,307,663 followers" [ref=e676] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/abbott-/
+                            - generic [ref=e677]:
+                              - generic [ref=e679]: Abbott
+                              - generic [ref=e681]: Hospitals and Health Care
+                              - generic [ref=e683]: 4,307,663 followers
+                          - link "Meera Shankar Meera & 2 other connections work here" [ref=e685] [cursor=pointer]:
+                            - /url: http://www.linkedin.com/search/results/people/?origin=COMPANY_PAGE_CANNED_SEARCH&network=%5B%22F%22%5D&currentCompany=%5B%221612%22%5D
+                            - img "Meera Shankar" [ref=e688]
+                            - generic [ref=e689]: Meera & 2 other connections work here
+                      - button "Follow Abbott" [ref=e691] [cursor=pointer]:
+                        - img [ref=e692]
+                        - generic [ref=e694]: Follow
+              - button "Show all recommended pages" [ref=e696] [cursor=pointer]:
+                - img [ref=e697]
+                - generic [ref=e699]: Show all
+            - generic [ref=e706]:
+              - heading "School alumni that work here" [level=3] [ref=e708]
+              - list [ref=e710]:
+                - listitem [ref=e711]:
+                  - generic [ref=e712]:
+                    - generic [ref=e713]:
+                      - link "Michael Spencer profile picture" [ref=e715] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/michael-j-spencer-pmp
+                        - generic "Michael Spencer profile picture" [ref=e717]:
+                          - img "Michael Spencer" [ref=e719]
+                      - link "Michael Spencer 3rd+ Experienced Program Manager in Technically Challenging International projects" [ref=e722] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/michael-j-spencer-pmp
+                        - generic [ref=e723]:
+                          - generic [ref=e724]:
+                            - generic [ref=e725]: Michael Spencer
+                            - generic [ref=e726]:
+                              - generic [ref=e727]: 3rd+
+                              - generic [ref=e728]: · 3rd+
+                          - generic [ref=e730]: Experienced Program Manager in Technically Challenging International projects
+                    - button "Michael Spencer Message" [ref=e733] [cursor=pointer]:
+                      - generic [ref=e734]: Message
+                - listitem [ref=e735]:
+                  - generic [ref=e736]:
+                    - generic [ref=e737]:
+                      - link "Ron Silva profile picture" [ref=e739] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ron-silva-99821310
+                        - generic "Ron Silva profile picture" [ref=e741]:
+                          - img "Ron Silva" [ref=e743]
+                      - link "Ron Silva 3rd+ Rear Admiral US Coast Guard (retired)" [ref=e746] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ron-silva-99821310
+                        - generic [ref=e747]:
+                          - generic [ref=e748]:
+                            - generic [ref=e749]: Ron Silva
+                            - generic [ref=e750]:
+                              - generic [ref=e751]: 3rd+
+                              - generic [ref=e752]: · 3rd+
+                          - generic [ref=e754]: Rear Admiral US Coast Guard (retired)
+                    - button "Ron Silva Message" [ref=e757] [cursor=pointer]:
+                      - generic [ref=e758]: Message
+                - listitem [ref=e759]:
+                  - generic [ref=e760]:
+                    - generic [ref=e761]:
+                      - link "John Berry, PE, PMP profile picture" [ref=e763] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/john-berry1
+                        - generic "John Berry, PE, PMP profile picture" [ref=e765]:
+                          - img "John Berry, PE, PMP" [ref=e767]
+                      - link "John Berry, PE, PMP 2nd USCG Shore Infrastructure Logistics Center Commander" [ref=e770] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/john-berry1
+                        - generic [ref=e771]:
+                          - generic [ref=e772]:
+                            - generic [ref=e773]: John Berry, PE, PMP
+                            - generic [ref=e774]:
+                              - generic [ref=e775]: 2nd
+                              - generic [ref=e776]: · 2nd
+                          - generic [ref=e778]: USCG Shore Infrastructure Logistics Center Commander
+                    - button "Invite John Berry, PE, PMP to connect" [ref=e780] [cursor=pointer]:
+                      - generic [ref=e781]: Connect
+          - generic [ref=e783]:
+            - iframe [ref=e861]:
+              - generic [ref=f2e3]:
+                - banner [ref=f2e4]:
+                  - generic [ref=f2e5]:
+                    - link "Promoted" [ref=f2e6] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/ads/start?src=en-all-ad-li-ads_by_li&trk=ads_by_li&utm_medium=ad&utm_source=li&utm_campaign=ads_by_li
+                    - button [ref=f2e7] [cursor=pointer]:
+                      - img [ref=f2e8]
+                - generic [ref=f2e13]:
+                  - link "Ad Image 1,110,686,823 Get Hotel Credits on select prepaid bookings through Amex Travel™. Terms apply. Haresh Haresh & 132 other connections also follow American Express" [ref=f2e14] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fwww.americanexpress.com%2Fus%2Fcredit-cards%2Fcard%2Fplatinum%2F%3Feep%3D40513%26li_fat_id%3D09760a59-7918-44fa-9f90-5a7908ecbd01&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGcZBeHjEaNIj8bQ42Pwqw4kYlUERIi9GpCqdvFVlmnpec6i9hd9e6azdPZJX924KPtuB6PolcyepaWPLXcEvWYEqUa7uDBgsYAifUuNihCuCm1sUaGM5p4_m3alXQzj33pz_BcnhdlEkHgbmyvzVSWXPdOjPAiX409wA8ntyt7n7wHIjIXJIMbZhUsgbr62dwUl8SadKW9lKNtE4fYHsgdB-YERTrgpN9f6taVFbAosxeTJfrjksR3129wjPxY9VnIjEBFnIO1Y2CSXpIkeIkuotfrb2GptcGJFLfDukV7ZLvz4xwSrLka-JTz-kdomiGHLDDX2TQzDbWw2cltYpebrdC49HiNOimRmjN6LkreKsP7LH4lYzpbnfCMFFascoH5ICFWHpMyuGnlqnyO3yMCaRTO24qC23LPGjhjud3cIOvh4bThsoeE5erY-T_Cq4it-NJLPjk8lC4NX1JxnCFYu17UlpAv2aOy6ocqoGW_lidw9T1do9joMf_HEPJb-Mc1rT_9qFXO2yTBWbyWQ-SivmBmKVjxi3nF0b--2iI6xov6ivQJlwWG4QFP1FBPed-C8a9ThmJKVoHAJzYSBNzOl6NBJ0ohISkFanp0-HxIOptBq9t2lMe-CUd1PWIb9oANfuxKrgZQMqKHAdsywp397IaPvaGAvI1mOOi4bJjHox4jq99_l9ugygk89wfmY4BD6TYQ5PQdk7cwFaDQvcBlVreXJ1YGffi13bIZvb4AIK3wEfwk28pl9KJztFrfD6PiRU7zKSM3PyXezeAEZStE8h2JLBLkS3VQi_HimGnIUy761eD4ckh0NWpCMsniWW5pfOFmV3KiXBEicWORIunwfH1sxscBiBHfAPWRLcw5uXQzCQt48mGwf-DLC5OvqT5EMPGID9fhtD4gcGiWOzpm7TVEpXgWGJelBKou6YCA8oeI1VTrEZn7rHftz6-8fyXDm7uXMlONyqzlOte-JRCgTkRmWRVmzetDUo6mX-VtLwVTs2685c7AvBqN2YcQDAn7HPyMPHktUOCA%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_company_posts%22%2C%22trackingId%22%3A%22d0d10944-e581-4b92-a79a-8cfe31e45c40%22%7D%2C%22time%22%3A1771205789580%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_company_posts%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A0720852961937744994
+                    - img "Ad Image 1,110,686,823" [ref=f2e16]
+                    - generic [ref=f2e17]:
+                      - heading "Get Hotel Credits" [level=4] [ref=f2e18]
+                      - paragraph [ref=f2e19]: on select prepaid bookings through Amex Travel™. Terms apply.
+                      - generic [ref=f2e20]:
+                        - img "Haresh" [ref=f2e22]
+                        - paragraph [ref=f2e23]: Haresh & 132 other connections also follow American Express
+                  - link "Ad Image 760,683,883 Pay Overseas Suppliers Keep your supply chain moving. Pay vendors reliably & on time with Remitly. Lizzie Lizzie & 9 other connections also follow Remitly" [ref=f2e24] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.remitly.com%2Fus%2Fen%2Flanding%2Fbusiness%3Fli_fat_id%3D09760a59-7918-44fa-9f90-5a7908ecbd01%26utm_campaign%3DUSA-Global_LinkedIn_SMB_Experimental_Interests-Skills_Text_EN_LF_70100%26utm_medium%3Dpaid%2Bsocial%26li_campaigngroupid%3D756306963%26utm_source%3DLinkedIn%26account_id%3D514705764%26li_campaignid%3D403438193&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGcZBeHjMiJniqrIpajJ3Rov6i2B40MVRKDrkXakhMjs3_Vs3RKlfp8LTOGTIT3xbdpZhqeA2AF89Rq0q4SfQlI6Y3M4ObNDkvlbquz9t6LTbpvcoiInqyncwpxwqjBHVePvDJDHrXjFcavRQFK9EpZfDe0x7AVAGrO4CF8ad_VirLlunbTQiN1S7pCD3N7tOjkgShKqbBrjSBf41Ve7OUVcX6VVR6rTOSgB6f85h505SXPmCbvtLWnXS0bONI53pPIyeqlkAveGklm4dFUiGE6xpf1kRAYHbrAzf6HuCzjgHD7BsZq3AkUbK24_ZJJfrjTha-TDTB6FlyBsHVDgiM3XQ_qNMRBJJ9W9oGRPmn4RUepIx2xY_ZljR2lOOxW5IogUiTPQS4jTt5tDgO2RUK_AMMkV99zALikQKT38DTwshQIf1yfX_0OK7M0KDpXpOywHg6lX_MlOjQxDhkZiFuQu00GDS4CRrKl_t_J532vJOKvoxd90mHM59fz3YuVa3c5VO8wlzqc62tOkNmDpY1mkGRd8qyouRlhCLaGCfLVz_gzKjK_1hZw6j80GSH4P50DWgpsJRjmeERoEc8htn3Cu9ivWMAAC1Q8qZ5h7gVbHzrRQ28PVdiSpKtXXvn7g3BKhkeOtChWFIzpjBJ3EhsD5O6Xizf6pJ1yVK0cBoQsnIM5lLAVeIFOUBX6c0tK5JA6O6V_OXyfSRXOzoFURZp5dVsNJzoAyEBy3T55wYJdO8iTH8R8WII6_do43mWe1K8-1WOA_9uROmpyxn43GYN012fYnjKF6xf6zv1kPb2DDkCId6afvm3jfax-SH_seTjfUxQ0CcNV3jT-Ge4rLpQVA1Mkb2Pq6opUGYKSJ0FsdEaA1unQ13LUWN6CUfX7i2uniVrAMUN4PPGQFXInP7hzcEliKS9irbnJ-tbZRQjhYVdJxMxNvdtB_4VTbNOp-Xsr9PDzpT48Z0OlmmnKNws7VuPdPolyjN7fQG35vZe2w1ie%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_company_posts%22%2C%22trackingId%22%3A%22d7bb35be-42c8-4768-99d3-1dd548872762%22%7D%2C%22time%22%3A1771205789580%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_company_posts%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A0720852961937744994
+                    - img "Ad Image 760,683,883" [ref=f2e26]
+                    - generic [ref=f2e27]:
+                      - heading "Pay Overseas Suppliers" [level=4] [ref=f2e28]
+                      - paragraph [ref=f2e29]: Keep your supply chain moving. Pay vendors reliably & on time with Remitly.
+                      - generic [ref=f2e30]:
+                        - img "Lizzie" [ref=f2e32]
+                        - paragraph [ref=f2e33]: Lizzie & 9 other connections also follow Remitly
+            - generic "LinkedIn Footer Content" [ref=e784]:
+              - generic [ref=e785]:
+                - list [ref=e862]:
+                  - listitem [ref=e863]:
+                    - link "About" [ref=e864] [cursor=pointer]:
+                      - /url: https://about.linkedin.com/
+                      - generic [ref=e865]: About
+                  - listitem [ref=e866]:
+                    - link "Accessibility" [ref=e867] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/accessibility
+                      - generic [ref=e868]: Accessibility
+                  - listitem [ref=e869]:
+                    - link "Help Center" [ref=e870] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/help/linkedin?trk=footer_d_flagship3_company_posts
+                      - generic [ref=e871]: Help Center
+                  - listitem [ref=e872]:
+                    - button "Privacy & Terms" [ref=e874] [cursor=pointer]:
+                      - generic [ref=e876]:
+                        - text: Privacy & Terms
+                        - img [ref=e877]
+                  - listitem [ref=e879]:
+                    - link "Ad Choices" [ref=e880] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/help/linkedin/answer/62931
+                      - generic [ref=e881]: Ad Choices
+                  - listitem [ref=e882]:
+                    - link "Advertising" [ref=e883] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/ad/start?trk=n_nav_ads_rr
+                      - generic [ref=e884]: Advertising
+                  - listitem [ref=e885]:
+                    - button "Business Services" [ref=e887] [cursor=pointer]:
+                      - generic [ref=e889]:
+                        - text: Business Services
+                        - img [ref=e890]
+                  - listitem [ref=e892]:
+                    - button "Get the LinkedIn app" [ref=e895] [cursor=pointer]
+                  - listitem [ref=e896]:
+                    - button "More options" [ref=e897] [cursor=pointer]: More
+                - generic [ref=e786]:
+                  - img "LinkedIn" [ref=e787]:
+                    - img [ref=e788]
+                  - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=e790]:
+            - generic [ref=e791]:
+              - generic [ref=e793] [cursor=pointer]:
+                - img "Madina Gbotoe" [ref=e795]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=e796]:
+                  - generic [ref=e797]:
+                    - generic [ref=e798]: Messaging
+                    - generic [ref=e799]: You are on the messaging overlay. Press enter to open the list of conversations.
+              - generic [ref=e800]:
+                - button "Open messenger dropdown menu" [ref=e802] [cursor=pointer]:
+                  - img "Open messenger dropdown menu" [ref=e803]
+                - button "Compose message" [ref=e806] [cursor=pointer]:
+                  - img [ref=e807]
+                  - generic [ref=e809]: Compose message
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=e810] [cursor=pointer]:
+                  - img [ref=e811]
+                  - generic [ref=e813]: You are on the messaging overlay. Press enter to open the list of conversations.
+            - link "Society of American Military Engineers - San Francisco Post picture Society of American Military Engineers - San Francisco Post" [ref=e898] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/99229535/admin/inbox
+              - img "Society of American Military Engineers - San Francisco Post picture" [ref=e899]
+              - generic [ref=e900]: Society of American Military Engineers - San Francisco Post
+              - img [ref=e901]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - region [ref=e814]

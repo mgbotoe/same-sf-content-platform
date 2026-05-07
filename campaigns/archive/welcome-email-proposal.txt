@@ -1,0 +1,207 @@
+EMAIL TO BOARD OF DIRECTORS
+===========================
+
+To: SAME SF Board of Directors
+From: Madina Gbotoe
+Subject: ACTION NEEDED by Feb 25: Welcome Email Proposal (5 min read)
+
+---
+
+Hi everyone,
+
+TL;DR: I'm proposing an automated welcome email for new subscribers. Includes a message from Scott, links to SF Post resources, and tailored content for active duty, students, and A/E/C professionals. No extra cost. Target go-live: March 1st. I need your feedback by Feb 25th to stay on track. Full draft and HTML preview attached.
+
+WHAT I NEED FROM YOU: A quick reply -- even just "looks good" or "change X" -- by Tuesday, Feb 25th. If I don't hear back, I'll move forward with this version as-is. I want to make sure this represents us well, so your input matters.
+
+---
+
+I'd like to propose adding an automated welcome email for new subscribers to our Mailchimp list. Right now, when someone subscribes, they don't hear from us until the next newsletter goes out -- which could be weeks later. That's a missed opportunity to make a great first impression.
+
+Why it matters:
+- Welcome emails have an average 50% open rate -- higher than any other email type
+- Sets expectations so subscribers know what they're getting (and are less likely to unsubscribe later)
+- Immediately connects new members to upcoming events and ways to get involved
+- Our Mailchimp Free plan includes one automation, so there's no additional cost
+
+I'd like to have this live by March 1st, so I need feedback by Tuesday, Feb 25th to finalize on time.
+
+Below is a text draft of the welcome email content. I've also attached an HTML file (welcome-email-preview.html) so you can see exactly how it will look in someone's inbox. To view it: save the attachment to your computer, then double-click it -- it will open in your web browser (Chrome, Edge, Safari, etc.).
+
+
+PROPOSED WELCOME EMAIL
+======================
+
+Subject line: Welcome to the SAME San Francisco Post
+Preview text: Here's what to expect and how to get involved.
+
+---
+
+Welcome to SAME San Francisco!
+
+We're glad you're here.
+
+The SAME San Francisco Post connects military, government, and A/E/C industry professionals across the Bay Area. Whether you're a longtime SAME member or just learning about us, you've joined a community that's been strengthening national security infrastructure and supporting the next generation of engineers for decades.
+
+
+A Message from Our President
+-----------------------------
+
+"Welcome to the SAME San Francisco Post. Whether you're joining us from the military, government, or industry side, you're now part of a community that's been making a difference in the Bay Area for decades. I look forward to meeting you at an upcoming event."
+
+-- CAPT Scott MacCumbee, PE
+   President, SAME San Francisco Post
+   US Coast Guard - CEU Oakland
+
+
+Here's what to expect:
+
+- Monthly newsletters with post updates, member spotlights, and industry news
+- Event invitations -- site visits, happy hours, and networking events
+- Military observances honoring the branches that make our mission possible
+- Annual highlights: our Golf Tournament (July) and Holiday Gala (December)
+
+We keep it to a few emails per month. No spam, no clutter.
+
+
+Get Involved Locally (SF Post)
+-------------------------------
+
+Here's where to start with the SF Post. Site visits, happy hours, scholarships, and more happen right here in the Bay Area.
+
+- See upcoming SF events: https://www.same.org/sf/events/
+- Meet your Post officers: https://www.same.org/sf/sa-officers/
+- Learn about our scholarships: https://www.same.org/sf/scholarships/
+- Browse photos from recent events: https://www.same.org/san-francisco-post-recent-events/
+- Follow us on LinkedIn: https://www.linkedin.com/company/society-of-amercian-military-engineers-san-francisco-post/
+- Donate to our scholarship fund: https://www.same.org/same-san-francisco-post-scholarship-donation-form/
+
+
+What one of our members has to say:
+
+"SAME is an outstanding forum to build your professional network while giving back in multiple meaningful ways. The more you get involved, the more you will get out of it!"
+
+-- Steven "Sid" Osgood, P.E., PMP, F.SAME
+   SAME Fellow and Elected Director, SAME National Board
+
+
+For Active Duty and Veterans
+-----------------------------
+
+These resources are here whenever you need them.
+
+- Military One Source (all branches): https://www.militaryonesource.mil/
+- Coast Guard Mutual Assistance: https://mycgma.org/
+- Navy-Marine Corps Relief Society: https://www.nmcrs.org/
+- Army Emergency Relief: https://www.armyemergencyrelief.org/assistance/
+- Air Force Aid Society: https://afas.org/
+- Career Transition Workshop: https://www.same.org/event/ctw/
+
+Also: Military, government, and student SAME members get FREE registration to JETC (Joint Engineer Training Conference) -- the premier annual event for the military engineering community.
+
+
+For Students and Young Professionals
+--------------------------------------
+
+Whether you're in school or early in your career, SAME has programs designed to help you grow, connect, and lead.
+
+- SAME STEM/Engineering Camps: https://www.same.org/camps/
+- Student membership info: https://www.same.org/membership-communities/join/student-membership/
+- Leader Development programs: https://www.same.org/membership-communities/communities-of-interest-list/leader-development-community/
+- Our SF Post YP co-chairs: LTJG Ben Acebo (USCG) and Isabel Andaya (HDR Inc.)
+
+The SF Post awards scholarships through the Nicholas Fund, Bentley Fund, and the Porterville Military Academy / Oakland Military Institute endowments.
+
+
+For A/E/C Industry Professionals
+----------------------------------
+
+SAME is where the private sector meets the military engineering community. Here's how to plug in.
+
+- Company/Organization membership: https://www.same.org/membership-communities/join/company-organization-membership/
+- Company Directory: https://my.same.org/companydirectory
+- Industry-Government Engagement: https://www.same.org/events-programs/industry-government-engagement-2/
+
+Our SF Post sponsors include firms like Stantec, GHD, HDR, Towill, and more -- you're in good company.
+
+
+Connect Nationally (SAME HQ)
+------------------------------
+
+SAME is a nationwide network of 23,000+ members and 1,500 companies. These resources connect you to the broader community.
+
+- SAME Career Center (job board): https://same.careerwebsite.com/home/index.cfm
+- The Military Engineer magazine: https://www.same.org/tme-the-military-engineer/
+- Company Directory (find A/E/C firms): https://my.same.org/companydirectory
+- Communities of Interest (join your specialty group): https://www.same.org/membership-communities/communities-of-interest-list/
+- SAME Engage (online community): https://same.connectedcommunity.org/home/
+- "The Value of SAME" video (2 min): https://www.youtube.com/watch?v=EWXoQrjLzjk
+
+
+Welcome aboard,
+The SAME San Francisco Post Team
+
+
+SAME BY THE NUMBERS
+====================
+- 23,000 individual members nationwide
+- 1,500 member companies
+- 5,500 government/military members
+- 2,200 student members
+- Founded in 1920 -- over 100 years of service
+- Tagline: "Dedicated to National Security Since 1920"
+
+
+NOTES FOR BOD REVIEW
+====================
+
+1. Tone: Warm and welcoming, consistent with our brand voice -- not corporate, not salesy
+
+2. Frequency: Sends once, automatically, only to new subscribers at the moment they join
+
+3. Presidential message: I've included a placeholder message from Scott. Scott, feel free
+   to rewrite this in your own words -- a personal touch goes a long way. His title on the
+   SAME website currently shows "CAPT Scott MacCumbee, PE" under US Coast Guard - CEU Oakland.
+
+4. Member quote: Using a real quote from Sid Osgood's member spotlight submission.
+
+5. Audience sections: The email includes tailored resource sections for our key audiences:
+   - Active duty / veterans (financial assistance links from our own SF Post website + CTW)
+   - Students / young professionals (camps, scholarships, YP leadership)
+   - A/E/C industry (company directory, membership, I-G engagement)
+   This way, every subscriber finds something relevant to them immediately.
+
+6. Service member resources: These links are already on our SF Post homepage. Including
+   them in the welcome email shows we care about our military community from day one.
+
+7. Free JETC perk: Starting 2025, military/government/student SAME members get FREE
+   registration to JETC. This is a huge value-add worth highlighting.
+
+8. Optional additions the board may want:
+   - Photo of Scott and/or a recent event (Gala, site visit) for visual context
+   - A specific scholarship dollar amount ("Last year we awarded $X in scholarships")
+   - Any upcoming event to spotlight (e.g., Golf Tournament registration)
+
+9. Things I noticed on the website that may need updating:
+   - The SF Post homepage still shows Wendy Chen as Post Leadership (sidebar), but the
+     Officers page correctly shows Scott MacCumbee as President. Should be synced.
+   - The "Membership" nav link on the SF Post site goes to "#" (broken/placeholder)
+   - The Events page calendar appears to be an image, not a live calendar
+
+10. Timeline:
+    - Feb 25: Feedback deadline from the board
+    - Feb 26-28: Finalize content and build in Mailchimp
+    - March 1: Go live -- automation activated
+    - We can test it first by subscribing a board member's email before going live.
+
+I really value your input on this -- it's going out under our Post's name and I want it to reflect all of us, not just my perspective. Even a one-line reply helps:
+
+- "Looks good, go for it"
+- "Change [this thing]"
+- "I have concerns about [X]"
+
+Scott -- especially hoping to hear from you on the presidential message. Happy to use the placeholder or swap in your own words. Whatever feels right.
+
+If I don't hear back by Feb 25th, I'll proceed with this version so we can hit our March 1st go-live. I can always update it after launch if you have thoughts later.
+
+Thanks everyone,
+Madina

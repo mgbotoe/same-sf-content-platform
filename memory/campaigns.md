@@ -1,13 +1,24 @@
 # Campaign Memory
 
-## Active Campaigns (as of 2026-05-03)
+## Active Campaigns (as of 2026-05-05)
 
-### Mine Cleanup Info Exchange — Save the Date
+### Mine Cleanup Info Exchange — Save the Date (Email)
 - **Mailchimp Campaign ID:** `3619932539` (web_id: `14057935`)
 - **Template:** Event Announcement `11869797`
 - **Status:** Scheduled — May 12, 2026 at 7:00 AM PT
 - **CTA:** Abstract submission form — `https://docs.google.com/forms/d/e/1FAIpQLScOo962FBwpg_rI6a1ezs03uY3WabjJt3xFk7gSAmSZyK8Hhw/viewform`
 - **Pending:** Mine Cleanup registration link still needed for May 18 newsletter and LinkedIn update
+
+### Mine Cleanup LinkedIn Event Page
+- **File:** `campaigns/mine-cleanup-2026/linkedin-event-page.md`
+- **Status:** Draft ready. Approved by Dina (event share post copy).
+- **Venue:** EPA Region 9 Office, San Francisco — street address/room TBD (confirm with EPA contact before publishing)
+- **Pending:** Confirm venue address/room; add registration link on May 18; delete 3 duplicate files once Dina confirms: `05-12-mine-cleanup-announcement.md`, `05-07-mine-cleanup-linkedin.md`, `05-12-mine-cleanup-graphic.png`
+
+### Mine Cleanup LinkedIn Post
+- **Target send:** May 7, 2026
+- **Status:** JR Gregory approved (2026-05-04). Version A, graphic ready. Ready to post.
+- **After May 18:** Update first comment to include registration link once available.
 
 ### May 18 Newsletter
 - **File:** `campaigns/05-may-2026/05-18-may-newsletter.md`
@@ -17,16 +28,11 @@
 
 ### Geospatial Site Visit Recap
 - **Date:** May 5, 2026
-- **Status:** Needs photos before post can be drafted (still pending as of 2026-05-04)
+- **Status:** Needs photos before post can be drafted (still pending as of 2026-05-05)
 
 ### Military Appreciation Month
 - **Post date:** May 11, 2026
 - **Status:** Scheduled (confirmed 2026-05-04). Version A + graphic approved.
-
-### Mine Cleanup LinkedIn Post
-- **Target send:** May 7, 2026
-- **Status:** JR Gregory approved (2026-05-04). Version A, graphic ready. Ready to post.
-- **After May 18:** Update first comment to include registration link once available.
 
 ## Completed Campaigns
 

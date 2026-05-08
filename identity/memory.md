@@ -16,6 +16,7 @@ Detailed context lives in `memory/*.md` — search on-demand, don't duplicate he
 ## Active Work
 
 - **Mine Cleanup email** — Scheduled May 12 at 7 AM PT (Campaign `3619932539`). Registration link still needed for May 18 newsletter + LinkedIn update.
+- **Mine Cleanup LinkedIn Event page** — Draft ready (`linkedin-event-page.md`). Venue is EPA Region 9 Office, SF — street address/room TBD (confirm with EPA contact before publishing). 3 duplicate files pending deletion: `05-12-mine-cleanup-announcement.md`, `05-07-mine-cleanup-linkedin.md`, `05-12-mine-cleanup-graphic.png` — awaiting Dina confirmation.
 - **May 18 Newsletter** — Draft ready (`05-18-may-newsletter.md`, template `11869800`). Blocked on Mine Cleanup registration link.
 - **Geospatial recap** (May 5) — Needs photos before drafting.
 - **Mine Cleanup LinkedIn** (May 7) — JR Gregory approved (2026-05-04). Version A + graphic ready to post.
@@ -23,6 +24,7 @@ Detailed context lives in `memory/*.md` — search on-demand, don't duplicate he
 - **KBYG template** (`11869799`) — Needs New Builder version before May 31, 2026.
 - **Folder restructure** — Approved in principle. Not yet executed. See `memory/decisions.md`.
 - **3 .mil addresses** (MacCumbee, Jenkinson, Anaya) — Must be added to Mailchimp manually via UI.
+- **On May 18:** Add registration link to — event page description, event share post, LinkedIn post first comment, May 18 newsletter.
 
 ## Key Facts
 
@@ -53,4 +55,4 @@ Detailed context lives in `memory/*.md` — search on-demand, don't duplicate he
 - [2026-05-03] Heartbeat Standing Rule added — `/loop 30m /heartbeat` at every session start, mandatory
 - [2026-05-03] SOUL.md: Military & AEC Audience Layer added; sub-deadline rule + runway calc in Campaign Intake; observance closing-question rules; logo rule for graphics
 - [2026-05-04] JR approved Mine Cleanup LinkedIn (May 7). Military Appreciation scheduled. Auto-promote hook wired to SessionStart.
-- [2026-05-05] Drafted Mine Cleanup LinkedIn Event page (plain text, official EPA language). Event share post approved. Duplicate files pending cleanup.
+- [2026-05-05] Drafted Mine Cleanup LinkedIn Event page (EPA/SAME language, abstract link embedded). Event share post copy approved by Dina. Venue confirmed as EPA Region 9 SF — street address/room TBD. 3 duplicate files pending deletion (Dina confirmation needed).

@@ -30,8 +30,20 @@ Before answering anything about past campaigns, decisions, content choices, or a
 
 ## Daily Logs
 - Every session's work is captured in `daily-logs/YYYY-MM-DD.md`
-- The PreCompact hook automatically saves a summary before context compaction
 - Run `/distill-session` before ending long sessions
+- `/promote` runs daily via GitHub Actions cron (07:00 UTC) — extracts key learnings into `identity/memory.md` and commits back to the repo
+
+## Session Discipline (commit + sync hygiene)
+
+Cloud cron (`promote.yml`) sees only what's pushed to GitHub. Local sessions must keep the repo current both ways or cron operates on stale state.
+
+**On session start** the SessionStart hook runs `python scripts/session-startup.py` (Mailchimp snapshot) + `python .claude/scripts/sync-check.py`. If sync-check shows `behind N`, run `git pull --rebase --autostash` before doing significant work in tracked files.
+
+**Before ending a session**, run `git status`. Then:
+- **`daily-logs/`** changes → auto-commit + auto-push. Append-only data, low risk.
+- **`identity/memory.md` or `memory/*.md`** → propose commits, summarize what changed, ask Dina before pushing to main.
+- **`campaigns/`, `data/`, `scripts/`** changes → propose commits, ask Dina before push to main.
+- **Clean tree** → confirm and exit.
 
 # Skills
 

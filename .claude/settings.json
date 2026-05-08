@@ -7,6 +7,10 @@
           {
             "type": "command",
             "command": "python scripts/session-startup.py 2>&1 | tail -3"
+          },
+          {
+            "type": "command",
+            "command": "python .claude/scripts/sync-check.py 2>&1 || true"
           }
         ]
       }
